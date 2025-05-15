@@ -1,0 +1,16 @@
+export const skills = [
+  "WordPress",
+  "Elementor",
+  "WPBakery",
+  "Divi",
+  "Bricks",
+  "Oxygen",
+  "HTML/CSS",
+  "SASS/Less",
+  "JavaScript (básico)",
+  "Yoast SEO",
+  "LiteSpeed Cache",
+  "Contact Form 7",
+  "WPForms",
+  "All-in-One Migration",
+]

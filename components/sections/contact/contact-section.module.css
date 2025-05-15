@@ -1,0 +1,72 @@
+.contactSection {
+  padding: 5rem 0;
+  background-color: white;
+}
+
+.darkMode .contactSection {
+  background-color: rgb(17, 24, 39);
+}
+
+.contactItem {
+  display: flex;
+  align-items: flex-start;
+}
+
+.iconWrapper {
+  flex-shrink: 0;
+  background-color: rgb(219, 234, 254);
+  padding: 0.75rem;
+  border-radius: 9999px;
+}
+
+.darkMode .iconWrapper {
+  background-color: rgba(30, 58, 138, 0.3);
+}
+
+.icon {
+  height: 1.5rem;
+  width: 1.5rem;
+  color: rgb(37, 99, 235);
+}
+
+.socialIcon {
+  background-color: rgb(219, 234, 254);
+  padding: 0.75rem;
+  border-radius: 9999px;
+  transition: background-color 0.3s ease;
+}
+
+.socialIcon:hover {
+  background-color: rgb(191, 219, 254);
+}
+
+.darkMode .socialIcon {
+  background-color: rgba(30, 58, 138, 0.3);
+}
+
+.darkMode .socialIcon:hover {
+  background-color: rgba(30, 58, 138, 0.5);
+}
+
+.contactCard {
+  background-color: rgb(239, 246, 255);
+  padding: 2rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+.darkMode .contactCard {
+  background-color: rgba(30, 58, 138, 0.2);
+}
+
+.whatsappButton {
+  background-color: rgb(22, 163, 74);
+  color: white;
+  width: 100%;
+  padding: 1.5rem;
+  font-size: 1.125rem;
+}
+
+.whatsappButton:hover {
+  background-color: rgb(21, 128, 61);
+}
