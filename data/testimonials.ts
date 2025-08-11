@@ -9,6 +9,14 @@ export type Testimonial = {
 export const testimonials: Testimonial[] = [
   {
     id: 1,
+    name: "Patricio Zaltzberg",
+    position: "Executive and Commercial Director UPA Enterteinament",
+    image: "/placeholder.svg?height=100&width=100",
+    quote:
+      "Excelente trabajo. Supo entender perfectamente lo que necesitábamos y lo resolvió con rapidez, claridad y mucha dedicación. ¡Recomendado 100%!.",
+  },
+  {
+    id: 1,
     name: "Karla M",
     position: "Direct Marketing Executive",
     image: "/placeholder.svg?height=100&width=100",
