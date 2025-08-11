@@ -61,6 +61,6 @@ export const testimonials: Testimonial[] = [
     position: "Forward Solutions Agent",
     image: "/placeholder.svg?height=100&width=100",
     quote:
-      "EHola Teofilo, de mi parte me queda decir gracias. Contigo realicé los puntos pendientes en mi página web y estoy satisfecho con tu trabajo. Es muy probable que en un futuro salgan más trabajos y espero contar contigo en ellos. Saludos.",
+      "E Hola Teofilo, de mi parte me queda decir gracias. Contigo realicé los puntos pendientes en mi página web y estoy satisfecho con tu trabajo. Es muy probable que en un futuro salgan más trabajos y espero contar contigo en ellos. Saludos.",
   },
 ]
