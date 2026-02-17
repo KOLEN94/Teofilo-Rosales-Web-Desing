@@ -1,4 +1,4 @@
-import { Laptop, Rocket, Settings, RefreshCw, ServerCog , Server, Shield, Book, ShoppingCart } from "lucide-react"
+import { Laptop, Rocket, Settings, RefreshCw, ServerCog , Server, Shield, Boxes  , ShoppingCart } from "lucide-react"
 import type { ReactNode } from "react"
 
 export type Service = {
@@ -14,7 +14,7 @@ export const icons = {
   ServerCog ,
   Server,
   Shield,
-  Book,
+  Boxes  ,
   ShoppingCart,
 }
 
@@ -57,9 +57,9 @@ export const services: Service[] = [
     description: "Implementación de cookies, políticas de privacidad y cumplimiento GDPR.",
   },
   {
-    icon: "Book",
-    title: "Documentación y Soporte",
-    description: "Guías detalladas para gestionar tu sitio y soporte post-lanzamiento.",
+    icon: "Boxes",
+    title: "Trabajo en equipo",
+    description: "Experiencia usando Slack, ClickUp y otras herramientas colaborativas.",
   },
   {
     icon: "ServerCog",

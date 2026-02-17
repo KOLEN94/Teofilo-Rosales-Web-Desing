@@ -13,4 +13,5 @@ export const skills = [
   "Contact Form 7",
   "WPForms",
   "All-in-One Migration",
+  "Slack",
 ]

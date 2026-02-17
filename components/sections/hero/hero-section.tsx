@@ -59,7 +59,7 @@ export default function HeroSection() {
               size="lg"
               className="text-md bg-transparent text-white border-white hover:bg-white/10 hover:text-white"
             >
-              <a href="https://drive.google.com/file/d/168Iu3PXyC_JTequxhxqMR5jc64f8sLB3/view?usp=sharing" target="_blank">Ver Cv</a>
+              <a href="https://drive.google.com/file/d/17wxU-dbhxl67jH5VIK-s-74l4cLrEK9N/view?usp=drive_link" target="_blank">Ver Cv</a>
             </Button>
           </motion.div>
 
