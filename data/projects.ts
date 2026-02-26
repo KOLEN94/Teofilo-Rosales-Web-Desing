@@ -111,7 +111,7 @@ export const projects: Project[] = [
     title: "Ejekuta Peru",
     image: '/images/Captura-006-Ejekuta-Peru.webp',
     description: "Diseño de sitio web.",
-    link: "https://marketinglh.com/",
+    link: "https://ejekutaperu.com",
   },
   {
     id: 16,
