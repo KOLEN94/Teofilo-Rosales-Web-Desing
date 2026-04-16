@@ -3,6 +3,7 @@ import AboutSection from "@/components/sections/about/about-section"
 import ServicesSection from "@/components/sections/services/services-section"
 import WooCommerceSection from "@/components/sections/woocommerce/woocommerce-section"
 import PortfolioSection from "@/components/sections/portfolio/portfolio-section"
+import AIDesignSection from "@/components/sections/ai-design/ai-design-section"
 import TestimonialsSection from "@/components/sections/testimonials/testimonials-section"
 import ContactSection from "@/components/sections/contact/contact-section"
 
@@ -14,6 +15,7 @@ export default function Home() {
       <ServicesSection />
       <WooCommerceSection />
       <PortfolioSection />
+      <AIDesignSection />
       <TestimonialsSection />
       <ContactSection />
     </main>

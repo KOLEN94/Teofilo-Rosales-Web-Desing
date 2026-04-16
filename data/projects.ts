@@ -33,7 +33,7 @@ export const projects: Project[] = [
     id: 4,
     title: "TFM Metro de Madrid",
     image: '/images/Captura-058-metrotfm.com.webp',
-    description: "Creacion de sitio de dropshiping en Chile.",
+    description: "Creacion de sitio oficial para el TFM de Metro de Madrid.",
     link: "https://metrotfm.com",
   },
    {
@@ -75,7 +75,7 @@ export const projects: Project[] = [
     id: 11,
     title: "Locksmith Services'",
     image: '/images/Captura-002-Locksmith-Services-in-Maricopa-County.webp',
-    description: "Sitio web profesional para una empresa de consultoría financiera.",
+    description: "Sitio web profesional para una empresa de cerrajeria.",
     link: "https://abc-locksmiths.com",
   },
   {
@@ -87,7 +87,7 @@ export const projects: Project[] = [
   },
   {
     id: 13,
-    title: "Avalon Studio Sesignbuild",
+    title: "Avalon Studio Design build",
     image: '/images/Captura-004-Avalonstudiodesignbuild.webp',
     description: "Colaboración en página web.",
     link: "https://avalonstudiodesignbuild.com",
