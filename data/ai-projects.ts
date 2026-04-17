@@ -46,7 +46,7 @@ export const aiProjects: AIProject[] = [
    {
     id: 6,
     title: "Pagina Moda Femenina",
-    image: '/images/Pagina-moda-femenina-figma-ai.webp',
+    image: '/images/Pagina-Moda-Femenina-figma-ai.webp',
     description: "Diseño para una tienda de moda femenina.",
     link: "https://www.figma.com/proto/LL8T14NmtwcV2xnwFmdQm3/Dise%C3%B1os-portafolio-ia?node-id=55-2&t=mwFgFlDP0ZhbANIn-1&scaling=min-zoom&content-scaling=fixed&page-id=48%3A2",
   },
