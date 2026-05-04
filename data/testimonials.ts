@@ -56,11 +56,19 @@ export const testimonials: Testimonial[] = [
       "Es un profesional, ha hecho un trabajo fantástico, rápido y creativo para mejorar la web y obtener mejores resultados. Lo recomiendo 100%.",
   },
     {
-    id: 5,
+    id: 6,
     name: "Daniel IT",
     position: "Forward Solutions Agent",
     image: "/placeholder.svg?height=100&width=100",
     quote:
-      "EHola Teofilo, de mi parte me queda decir gracias. Contigo realicé los puntos pendientes en mi página web y estoy satisfecho con tu trabajo. Es muy probable que en un futuro salgan más trabajos y espero contar contigo en ellos. Saludos.",
+      "EH Hola Teofilo, de mi parte me queda decir gracias. Contigo realicé los puntos pendientes en mi página web y estoy satisfecho con tu trabajo. Es muy probable que en un futuro salgan más trabajos y espero contar contigo en ellos. Saludos.",
+  },
+      {
+    id: 7,
+    name: "Betty Ramos",
+    position: "Dueña Imaginemos, Tienda de juguetes para niños",
+    image: "/placeholder.svg?height=100&width=100",
+    quote:
+      "Teófilo hizo un gran trabajo ayudándome con problemas que presentaba mi web www.imaginemos.pe. Fue rápido, eficiente y muy profesional. ¡Lo recomiendo!.",
   },
 ]
