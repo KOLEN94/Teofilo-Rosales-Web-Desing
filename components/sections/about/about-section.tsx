@@ -51,7 +51,7 @@ export default function AboutSection() {
 
             <AnimatedSection delay={0.35}>
               <p className="text-gray-600 dark:text-gray-300">
-               Soy diseñador web especializado en WordPress y Elementor con más de 5 años de experiencia combinando trabajo freelance y en agencia. He desarrollado más de 50 sitios web para negocios y empresas, principalmente orientados al mercado internacional.
+               Soy diseñador web especializado en WordPress y Elementor con más de 7 años de experiencia combinando trabajo freelance y en agencia. He desarrollado más de 50 sitios web para negocios y empresas, principalmente orientados al mercado internacional.
               </p>
             </AnimatedSection>
 
@@ -123,7 +123,7 @@ export default function AboutSection() {
                         className="bg-blue-600 h-2 rounded-full"
                       ></motion.div>
                     </div>
-                    <span className="ml-2 text-gray-600 dark:text-gray-300">Inglés (Intermedio)</span>
+                    <span className="ml-2 text-gray-600 dark:text-gray-300">Inglés (A2)</span>
                   </div>
                 </div>
               </div>

@@ -37,7 +37,7 @@ export default function HeroSection() {
             transition={{ duration: 0.7, delay: 0.3 }}
             className="mt-6 text-xl text-gray-200 max-w-2xl mx-auto"
           >
-            Sitios rápidos, modernos y adaptados a tu marca. Especialista en WordPress y Elementor con más de 5 años de
+            Sitios rápidos, modernos y adaptados a tu marca. Especialista en WordPress y Elementor con más de 7 años de
             experiencia.
           </motion.p>
 
@@ -59,7 +59,7 @@ export default function HeroSection() {
               size="lg"
               className="text-md bg-transparent text-white border-white hover:bg-white/10 hover:text-white"
             >
-              <a href="https://drive.google.com/file/d/1RZFaUJzOQeqPAGWaS87pS5iF439ccmgT/view?usp=sharing" target="_blank">Cv Español</a>
+              <a href="https://drive.google.com/file/d/1t6OC0NsodHbpm1nS5qpVV-5AMK4o-4Nc/view?usp=sharing" target="_blank">Cv Español</a>
             </Button>
             <Button
               asChild
@@ -67,7 +67,7 @@ export default function HeroSection() {
               size="lg"
               className="text-md bg-transparent text-white border-white hover:bg-white/10 hover:text-white"
             >
-              <a href="https://drive.google.com/file/d/1bJHX1T_OiI49Gvomhap35GghilLbdrYs/view?usp=sharing" target="_blank">Cv English</a>
+              <a href="https://drive.google.com/file/d/1Ay2oZN_DU7Vw3ZmAj-284g6PtskbqO7c/view?usp=sharing" target="_blank">Cv English</a>
             </Button>
           </motion.div>
 
@@ -98,7 +98,7 @@ export default function HeroSection() {
                 <p className="text-sm text-gray-300">Satisfacción garantizada</p>
               </div>
               <div className="text-center">
-                <p className="text-3xl font-bold text-white">5+</p>
+                <p className="text-3xl font-bold text-white">7+</p>
                 <p className="text-sm text-gray-300">Años de experiencia</p>
               </div>
             </div>
