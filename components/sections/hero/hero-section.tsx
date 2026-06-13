@@ -59,7 +59,7 @@ export default function HeroSection() {
               size="lg"
               className="text-md bg-transparent text-white border-white hover:bg-white/10 hover:text-white"
             >
-              <a href="https://drive.google.com/file/d/1t6OC0NsodHbpm1nS5qpVV-5AMK4o-4Nc/view?usp=sharing" target="_blank">Cv Español</a>
+              <a href="https://drive.google.com/file/d/1ptffebJJz50wX_BoeUnfp7w3vRqJlKz8/view?usp=sharing" target="_blank">Cv Español</a>
             </Button>
             <Button
               asChild
@@ -67,7 +67,7 @@ export default function HeroSection() {
               size="lg"
               className="text-md bg-transparent text-white border-white hover:bg-white/10 hover:text-white"
             >
-              <a href="https://drive.google.com/file/d/1Ay2oZN_DU7Vw3ZmAj-284g6PtskbqO7c/view?usp=sharing" target="_blank">Cv English</a>
+              <a href="https://drive.google.com/file/d/1cCYbgb9z0C9-2bSH1gLzfdr5OhD4uJf7/view?usp=sharing" target="_blank">Cv English</a>
             </Button>
           </motion.div>
 
